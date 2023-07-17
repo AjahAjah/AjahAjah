@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AjahAjah/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AjahAjah/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/AjahAjah/Network-File-Shares-Permissions)
+  - [Building  Intuition  For  DNS](https://github.com/AjahAjah/Building-Intuition-For-DNS)
 
 <h2>Connect with me:</h2>
 
